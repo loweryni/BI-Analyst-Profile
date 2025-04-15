@@ -43,3 +43,8 @@ The Power BI project is organized into four pages, corresponding to the four par
 ## Submission
 
 The project was submitted as a series of 8 screenshots, two from each of the four Power BI report pages.
+
+## Author
+
+* Nikkia Lowery
+
