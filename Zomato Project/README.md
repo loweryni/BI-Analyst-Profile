@@ -45,9 +45,9 @@ The project utilized the Zomato data.zip archive, which includes the following t
 
 ## Project Files
 
-* [Power BI Dashboard]  (Link to your dashboard file)
-* [Final Report] (Link to your report file)
-* [Data Files] (If applicable and allowed, link to data files)
+* [Power BI Dashboard](https://drive.google.com/file/d/1QFisLh94UiJ5WAuTfXxV6eUMQjC85d0p/view?usp=drive_link)
+* [Final Report](https://github.com/loweryni/BI-Analyst-Profile/blob/main/Zomato%20Project/Final%20Project%20Report.docx.pdf)
+* [Data Files](https://drive.google.com/drive/folders/1kvKfKhzTqHcn3_N1vuZ8h3Cz0XeGHEZa?usp=drive_link)
 
 ## Author
 
