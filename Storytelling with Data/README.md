@@ -47,7 +47,8 @@ The project submission includes:
 
 * [Superstore Tableau Workbook](https://public.tableau.com/views/Sprint5_17291002736550/CompositeStory?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 * [Final Report](https://github.com/loweryni/BI-Analyst-Profile/blob/main/Storytelling%20with%20Data/Storytelling%20with%20Data.pdf)
-* [Data Files]()
+* [Final Report](https://drive.google.com/file/d/1WZGhFEPYL-KWNwbeUuuuRyG3mbzja_Wb/view?usp=drive_link)
+* [Data Files](https://github.com/loweryni/BI-Analyst-Profile/blob/main/Storytelling%20with%20Data/Storytelling%20with%20Data.pdf)
 
 ## Author
 
