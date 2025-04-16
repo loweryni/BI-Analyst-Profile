@@ -39,7 +39,6 @@ The project is structured into three main parts:
 
 The project submission includes:
 
-* README.md 
 * Tableau Workbook (published on Tableau Public)
 * Dashboard mock-ups and template
 * Any supporting files
@@ -47,7 +46,7 @@ The project submission includes:
 * ## Project Files
 
 * [Superstore Tableau Workbook](https://public.tableau.com/views/Sprint5_17291002736550/CompositeStory?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
-* [Final Report](https://docs.google.com/document/d/1k8m3E7AzL4zhILYfoWfa7iYIsIWgdn-nvgqxBAgIip0/edit?usp=drive_link)
+* [Final Report]()
 * [Data Files]()
 
 ## Author
