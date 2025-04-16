@@ -39,7 +39,18 @@ The project is structured into three main parts:
 
 The project submission includes:
 
-* README.md (this file)
+* README.md 
 * Tableau Workbook (published on Tableau Public)
 * Dashboard mock-ups and template
 * Any supporting files
+
+* ## Project Files
+
+* [Shopify Dashboard](https://drive.google.com/file/d/1Q7yEdiUtZuf_LEmjgSTd_IBWo-SMjFkZ/view?usp=drive_link)
+* [Final Report](https://docs.google.com/document/d/1ixgH6xAFgBTHQUgcp16iosML6E2rctYlfL--rxA7knw/edit?usp=drive_link)
+* [Data Files](https://docs.google.com/spreadsheets/d/1-bOuBoYLmR3Cd9jfJgGnJOhqOQu0Mpdv/edit?usp=drive_link&ouid=117037054327052662437&rtpof=true&sd=true)
+
+## Author
+
+* Nikkia Lowery
+
