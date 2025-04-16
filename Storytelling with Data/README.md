@@ -46,9 +46,9 @@ The project submission includes:
 
 * ## Project Files
 
-* [Shopify Dashboard](https://drive.google.com/file/d/1Q7yEdiUtZuf_LEmjgSTd_IBWo-SMjFkZ/view?usp=drive_link)
-* [Final Report](https://docs.google.com/document/d/1ixgH6xAFgBTHQUgcp16iosML6E2rctYlfL--rxA7knw/edit?usp=drive_link)
-* [Data Files](https://docs.google.com/spreadsheets/d/1-bOuBoYLmR3Cd9jfJgGnJOhqOQu0Mpdv/edit?usp=drive_link&ouid=117037054327052662437&rtpof=true&sd=true)
+* [Superstore Tableau Workbook](https://public.tableau.com/views/Sprint5_17291002736550/CompositeStory?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+* [Final Report](https://docs.google.com/document/d/1k8m3E7AzL4zhILYfoWfa7iYIsIWgdn-nvgqxBAgIip0/edit?usp=drive_link)
+* [Data Files]()
 
 ## Author
 
